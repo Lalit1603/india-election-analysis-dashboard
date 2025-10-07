@@ -100,6 +100,7 @@ indian-election-analysis-dashboard/
 ├── Election final dashboard.pbix        # Power BI project file
 ├── README.md                            # Project documentation
 └── /images                              # Screenshots of dashboard
+
 ---
 
 
