@@ -117,6 +117,6 @@ Tools Used: Power BI, Excel, GitHub
 ---
 
 ## ⭐️ Acknowledgments
-Special thanks to my teammates Lalit, Tejaswani, and Jayanth for their collaboration, contributions, and support throughout the project.
+Special thanks to my teammates Mudit, Tejaswani, and Jayanth for their collaboration, contributions, and support throughout the project.
 
 This dashboard was created as part of the Infosys Springboard Data Analytics Virtual Internship, serving as the Final Milestone Project. It demonstrates our team’s ability to analyze large datasets, apply Power BI visualization techniques, and derive meaningful insights from real-world election data.
