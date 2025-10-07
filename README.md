@@ -94,14 +94,16 @@ Here’s a preview of the Indian Election Analysis Dashboard created in Power BI
 
 ## 📂 Repository Structure
 
+```
 indian-election-analysis-dashboard/
 │
 ├── indian-state-level-election.csv      # Dataset
 ├── Election final dashboard.pbix        # Power BI project file
 ├── README.md                            # Project documentation
 └── /images                              # Screenshots of dashboard
-
+```
 ---
+
 
 
 ## 💡 Future Enhancements
