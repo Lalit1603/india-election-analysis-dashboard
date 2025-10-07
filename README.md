@@ -112,7 +112,7 @@ indian-election-analysis-dashboard/
 
 ## 🧑‍💻 Author
 Project By: Lalit Borase  
-Team Members: Jayanth, Mudit, Tejaswini
+Team Members: Jayanth, Mudit, Tejaswini <br>
 Tools Used: Power BI, Excel, GitHub  
 
 ---
