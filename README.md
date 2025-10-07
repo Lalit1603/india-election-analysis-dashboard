@@ -20,6 +20,7 @@ Dataset Name: indian-state-level-election.csv
 Source: Collected from publicly available Indian election statistics.
 
 ## 🖼️ Dashboard Preview
+Here’s a preview of the Indian Election Analysis Dashboard created in Power BI:
 ![photo_2025-10-07_13-07-28](https://github.com/user-attachments/assets/d5bde11e-5e99-4ffc-89ec-b39587f895be)
 
 
