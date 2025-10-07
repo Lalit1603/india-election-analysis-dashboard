@@ -15,8 +15,13 @@ It allows users to explore voting trends, party performance, and voter demograph
 ---
 
 ## 🧩 Dataset Information
+
 Dataset Name: indian-state-level-election.csv  
 Source: Collected from publicly available Indian election statistics.
+
+## 🖼️ Dashboard Preview
+![photo_2025-10-07_13-07-28](https://github.com/user-attachments/assets/d5bde11e-5e99-4ffc-89ec-b39587f895be)
+
 
 ### Key Columns:
 | Column Name | Description |
